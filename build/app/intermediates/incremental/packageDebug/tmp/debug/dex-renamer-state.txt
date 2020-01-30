@@ -1,0 +1,4 @@
+#Thu Jan 30 19:49:49 EET 2020
+base.0=/home/moji/IdeaProjects/control_your_home/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
